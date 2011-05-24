@@ -1,0 +1,2 @@
+  # cat=basic/string; type=string; label=Google Maps API Key
+mapKey = 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'go_maps_ap'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_gomapsap_adress">Address</label>
+			<label index="tx_gomapsap_adress.title">Title</label>
+			<label index="tx_gomapsap_adress.adress">Address</label>
+			<label index="tx_gomapsap_adress.image">Marker</label>
+			<label index="tx_gomapsap_adress.imagesize">User-defined Imagesize</label>
+			<label index="tx_gomapsap_adress.imageheight">Imageheight</label>
+			<label index="tx_gomapsap_adress.imagewidth">Imagewidth</label>
+			<label index="tx_gomapsap_adress.shadow">Shadow</label>
+			<label index="tx_gomapsap_adress.shadowsize">User-defined Shadowsize</label>
+			<label index="tx_gomapsap_adress.shadowheight">Shadowheight</label>
+			<label index="tx_gomapsap_adress.shadowwidth">Shadowwidth</label>
+			<label index="tx_gomapsap_adress.text">Info Window</label>
+			<label index="tt_content.list_type_pi1">Google Maps Input</label>
+		</languageKey>
+	</data>
+</T3locallang>

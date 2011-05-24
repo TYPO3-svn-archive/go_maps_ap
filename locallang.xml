@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'go_maps_ap'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Google Maps Input</label>
+			<label index="pi1_plus_wiz_description">Puts a map on your site.</label>
+		</languageKey>
+	</data>
+</T3locallang>
